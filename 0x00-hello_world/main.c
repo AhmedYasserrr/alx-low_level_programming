@@ -7,6 +7,5 @@
  */
 int main(void)
 {
-printf("aha\n");
     return (0);
 }
