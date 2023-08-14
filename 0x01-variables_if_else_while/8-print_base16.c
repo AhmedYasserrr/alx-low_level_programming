@@ -20,7 +20,7 @@ int main(void)
 	for (i = 97; i < 97 + 6; i++)
 	{
 		putchar(i);
-	}	
+	}
 	putchar('\n');
 	return (0);
 }
