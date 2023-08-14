@@ -18,8 +18,8 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	
-        d = abs(n) % 10;
+
+	d = abs(n) % 10;
 	if (n < 0 && d != 0)
 	{
 		d = -1 * d;
