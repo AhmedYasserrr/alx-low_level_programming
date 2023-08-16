@@ -1,7 +1,3 @@
-/*
- * File: 2-print_alphabet.c
- * Author: Ahmed Yasser
- */
 #include "main.h"
 /**
  * main - Prints a random number and states whether
