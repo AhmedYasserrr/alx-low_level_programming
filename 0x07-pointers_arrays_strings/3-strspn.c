@@ -23,6 +23,8 @@ unsigned int _strspn(char *s, char *accept)
 			}
 			i++;
 		}
+		if (*(accept + i) == '\0')
+			return (n);
 		s++;
 	}
 	return (n);
